@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Katherine</h1>
-<h3 align="center">A passionate frontend developer from Manila, Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kathorsiii&label=Profile%20views&color=0e75b6&style=flat" alt="kathorsiii" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kathorsiii" alt="kathorsiii" /></a> </p>
 
-- 🌱 I’m currently learning **Tailwind CSS, UI/UX, Vue, Laravel**
+- 🌱 I’m currently learning **Tailwind CSS, UI/UX, Laravel**
 
 - 💬 Ask me about **Tailwind CSS and UI/UX**
 
