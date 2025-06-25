@@ -1,10 +1,10 @@
 <h1>👋🏻 Hi, I am Katherine</h1>
 
-I'm a Junior QA Engineer with 2 years experience in software testing. I started my career at a fintech company where I gained hands-on experience in manual testing. I developed a strong foundation on manual testing. My work has focused on creating and executing test cases, reporting bugs, collaborating closely with developers and product teams ensuring a high-quality software release. Throughout my experience, I've gained experience in agile methodologies, testing web applications, APIs, and exposure to automation testing.
+I'm a Junior QA Engineer with 2 years experience in software testing. I started my career at a fintech company where I gained hands-on experience in manual testing. I developed a strong foundation on manual testing in where I focused on creating and executing test cases, reporting bugs, collaborating closely with developers and product team, ensuring a high-quality software release. I've gained experience in agile methodologies, testing web applications, API testing, and exposure on automation testing.
 
-What drives me in QA is more than just finding bugs — it's about understanding how the users interact with a product and making sure the experience is smooth and reliable. I'm commited to delivering user-focused products. I enjoy tracking down bugs, enhancing test coverage, and I thrive on helping the team to deliver a better software.
+What drives me in QA is more than just finding bugs — it's about understanding how users will interact with the product and ensuring the experience is smooth and reliable. I'm committed to delivering user-focused products which I'm keen on tracking down bugs and errors, enhancing test coverage. I thrive on helping the team to deliver a better software through collaborative and open communication.
 
-When I'm not testing,  I continuously improve my skills to stay aligned with QA practices.
+When I'm not testing,  I continuously improve my skills to stay aligned with various QA practices.
 
 [//]: # (<p align="left"> <img src="https://komarev.com/ghpvc/?username=kathorsiii&label=Profile%20views&color=0e75b6&style=flat" alt="kathorsiii" /> </p>)
 
