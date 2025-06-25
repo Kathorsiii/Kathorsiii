@@ -49,7 +49,7 @@ You can download my resume as [a PDF]()
 - JMeter
 
 ### ❇️ Examples
-This section showcases some examples of my work and what I do.
+This section showcases some examples of my work.
 
 📄 Test Case for OrangeHRM
 - 🌐 [OrangeHRM](https://opensource-demo.orangehrmlive.com/web/index.php/auth/login) is an open-source HR demo site.
