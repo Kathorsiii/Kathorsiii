@@ -27,7 +27,7 @@ When I'm not testing,  I continuously improve my skills to stay aligned with var
 - ❇️ [Examples](#examples)
 
 ### 📄 Resume
-You can download my resume as [a PDF](https://drive.google.com/file/d/1hDUx85RZWCxDXcBRPfsHloyeqIDBF0ij/view?usp=sharing)
+You can view and download my [resume](https://drive.google.com/file/d/1hDUx85RZWCxDXcBRPfsHloyeqIDBF0ij/view?usp=sharing)
 
 ### 💻 Tech Skills
 - Test Case Creation
